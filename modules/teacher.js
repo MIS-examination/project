@@ -1,6 +1,6 @@
 var mongoose = require('mongoose');
 
-const DB = "mongodb+srv://Bist_Man:LNK2207myP@cluster0.uurus.mongodb.net/nitjDB";
+const DB = "mongodb+srv://Bist_Man:qwerty123@cluster0.uurus.mongodb.net/nitjDB";
 mongoose.connect(DB , {useNewUrlParser: true});
 var conn = mongoose.Collection;
 
